@@ -25,12 +25,16 @@ In this challenge, create a web page that presents a styled list of Star Wars ch
 Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager.
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
+- ReactJS is a UI component library and was built by Facebook to create an interactive, stateful and resuable UI components.
 
 - [ ] What does it mean to _think_ in react?
+- I'm not quite sure because this wasn't discussed much. I would in order to think in React, you have to think how React is built differently compared to other frameworks and how it has components
 
 - [ ] Describe state.
+- State is an object and is mutable, which means data can be changed but in order to change data, you must use the setState method.
 
 - [ ] Describe props.
+- Props stands for properties and it holds immutable data that is passed to the components.
 
 ## Project Set Up
 
