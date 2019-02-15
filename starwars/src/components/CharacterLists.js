@@ -8,6 +8,7 @@ const CharacterLists = props => {
           <div className={`starwar-list ${character.name}`} key={character.name}>
             <h3>{character.name}</h3>
             <p><strong>Born:</strong>{character.birth_year}</p>
+            <p><strong>Gender:</strong>{character.gender}</p>
           </div>
         )
       })}
